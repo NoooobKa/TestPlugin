@@ -1,0 +1,11 @@
+name: Test
+main: testplugin.TestPlug
+version: 1.0
+api-version: 1.13
+commands:
+    Stick:
+      description: Stick commands
+      usage: /Stick <args>
+    GUI:
+      description: GUI commands
+      usage: /GUI <args>
